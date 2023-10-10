@@ -4,8 +4,8 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 import HomePage from './pages/home/HomePage'
-import AboutPage from './pages/about/aboutPage'
-import VansPage from './pages/vans/vansPage';
+import AboutPage from './pages/about/AboutPage'
+import VansPage from './pages/vans/VansPage';
 
 
 function App() {
